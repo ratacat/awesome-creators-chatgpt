@@ -79,6 +79,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-store](https
 * [Anime Art Creator](https://gptstore.ai/gpts/HTX5isqUGs-anime-art-creator) - Expert in creating & editing anime-style images.
 * [Logo Crafter](https://gptstore.ai/gpts/IgZqEnO4vf-logo-crafter) - Create flat, sleek, custom logos.
 * [Thumbnail Sketcher](https://gptstore.ai/gpts/lRIqkqVLk-thumbnail-sketcher) - Create blog thumbnails.
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server and ChatGPT app for independent musicians and touring artists to search 18,000+ verified live-music venues.
 
 ## Monetization
 * [YouTube Strategist](https://gptstore.ai/gpts/thzW_3c1Ip-youtube-strategist) - Friendly YouTube content and monetization advisor.
